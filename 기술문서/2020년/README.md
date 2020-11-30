@@ -32,3 +32,4 @@
 26 | UNIQ-OPT-TM-대전시_교차로_운영_데이터베이스_분석-20200709v4.pdf| 대전시 교차로 운영을 위한 신호 데이터베이스에 대한 분석 내용을 정리함 (신호 운영 해석 방법 및 신호 운영 분석)
 27 | UNIQ-OPT-TM-강화학습 기반 신호 최적화를 위한 State-Reward-Action 후보.pdf|시뮬레이션을 활용한 강화학습 기반 신호 최적화를 위한 State/Reward/Action 후보 도출을 통해 시뮬레이터 동적 인터페이스가 제공했으면 하는 Get/Set 연산 요구를 정리함
 28 | UNIQ-도시교통브레인-시스템설계서-v1.0-to-Git.pdf | 도시교통 브레인 시스템의구조와 기능, 각 서브시스템들의 인터페이스를 기술함
+29 | UNIQ-OPT-강화학습기반신호최적화-사례분석-intelliLight_PressLight_CoLight-20200917.pdf | 강화 학습 기반 신호 최적화 사례인 IntelliLight, PressLight, CoLight 에 대한 분석 
