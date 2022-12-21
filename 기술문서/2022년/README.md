@@ -21,7 +21,7 @@
 | 15 | [UNIQ-TP22-Lakehouse Architecture.pdf](./UNIQ-TP22-Lakehouse%20Architecture.pdf) | 레이크하우스 개념과 구현 사례 소개함 |
 | 16 | [UNIQ-TP72-Graph-Similarity-SimGNN.pdf](./UNIQ-TP72-Graph-Similarity-SimGNN.pdf) | 그래프 유사성 계산과 관련된 논문인 "SimGNN: A Neural Network Approach to Fast Graph Similarity Computation"을 분석한 내용을 기술함 |
 | 17 | [UNIQ-MGT-도시교통 브레인 테스트베드 월간정기점검보고서_v1.0_이노그리드.pdf](./UNIQ-MGT-도시교통%20브레인%20테스트베드%20월간정기점검보고서_v1.0_이노그리드.pdf) | 도시교통 브레인 테스트베드의 안정적인 운영을 위한 월간정기점검을 진행한 보고서 |
-| 18 | [UNIQ-MGT-도시교통브레인 네트워크 이중화 구축 보고서_v1.0_이노그리드.pdf] (./UNIQ-MGT-도시교통브레인%20네트워크%20이중화%20구축%20보고서_v1.0_이노그리드.pdf) | 안정적인 도시교통 브레인 인프라 환경 제공을 위한 테스트베드 네트워크 이중화 설계 및 구축 활동 결과를 기술 |
+| 18 | [UNIQ-MGT-도시교통브레인 네트워크 이중화 구축 보고서_v1.0_이노그리드.pdf](./UNIQ-MGT-도시교통브레인%20네트워크%20이중화%20구축%20보고서_v1.0_이노그리드.pdf) | 안정적인 도시교통 브레인 인프라 환경 제공을 위한 테스트베드 네트워크 이중화 설계 및 구축 활동 결과를 기술 |
 | 19 | [UNIQ-MGT-적합성 검증 시나리오_v1.0_이노그리드.pdf](./UNIQ-MGT-적합성%20검증%20시나리오_v1.0_이노그리드.pdf)  | 도시교통 브레인 클라우드 엣지 관리 플랫폼 서비스 적합성 검증을 위한 시나리오에 대해 기술 |
 | 20 |  |  |
 
