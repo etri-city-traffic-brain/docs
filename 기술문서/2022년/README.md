@@ -15,3 +15,8 @@
 | 9    | [UNIQ-OPT-축적 훈련 실험 방법-20220812.pdf](./UNIQ-OPT-축적%20훈련%20실험%20방법-20220812.pdf)        | 분산 처리를 위한 기능을 활용한 축적 학습 실험 방법에 대해 설명함. |
 | 10   | [UNIQ-VIS-시각적_분석_도구_진행_내용_검토_의견-20220802.pdf](./UNIQ-VIS-시각적_분석_도구_진행_내용_검토_의견-20220802.pdf)        | 시각적 분석 도구 진행 내용 검토하여 수정 요청(방안)을 기술함. |
 | 11   | [UNIQ-OPT-신호최적화서브시스템설계서-v1.5.pdf](./UNIQ-OPT-신호최적화서브시스템설계서-v1.5.pdf)        | 도시교통브레인 시스템을 구성하는 신호 최적화 서브시스템의 구조, 기능, 인터페이스 등에 대한 설계 내용을 기술함 |
+| 12 | [UNIQ-IEEE-BigComp-2022-Presentation.pdf](./UNIQ-IEEE-BigComp-2022-Presentation.pdf) | 거대 그래프에서 도달 가능성 계산 방법 관련 IEEE BigComp 2022 학회 논문(Sparsity-Aware Reachability Computation for Massive Graphs) 발표 내용을 기술함 |
+| 13 | [UNIQ-TM52-TrafficStream 기술 분석.pdf](./UNIQ-TM52-TrafficStream 기술 분석.pdf) | TrafficStream의 주요 내용과 논문에서 제시한 내용에 대해 기술함 |
+| 14 | [UNIQ-TP14-AI for Data Management.pdf](./UNIQ-TP14-AI for Data Management.pdf) | 인공지능을 활용한 데이터 관리 기술 동향을 기술함 |
+| 15 | [UNIQ-TP22-Lakehouse Architecture.pdf](./UNIQ-TP22-Lakehouse Architecture.pdf) | 레이크하우스 개념과 구현 사례 소개함 |
+| 16 | [UNIQ-TP72-Graph-Similarity-SimGNN.pdf](./UNIQ-TP72-Graph-Similarity-SimGNN.pdf) | 그래프 유사성 계산과 관련된 논문인 "SimGNN: A Neural Network Approach to Fast Graph Similarity Computation"을 분석한 내용을 기술함 |
