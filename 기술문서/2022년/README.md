@@ -17,15 +17,15 @@
 | 11   | [UNIQ-OPT-신호최적화서브시스템설계서-v1.5.pdf](./UNIQ-OPT-신호최적화서브시스템설계서-v1.5.pdf)        | 도시교통브레인 시스템을 구성하는 신호 최적화 서브시스템의 구조, 기능, 인터페이스 등에 대한 설계 내용을 기술함 |
 | 12 | [UNIQ-IEEE-BigComp-2022-Presentation.pdf](./UNIQ-IEEE-BigComp-2022-Presentation.pdf) | 거대 그래프에서 도달 가능성 계산 방법 관련 IEEE BigComp 2022 학회 논문(Sparsity-Aware Reachability Computation for Massive Graphs) 발표 내용을 기술함 |
 | 13 | [UNIQ-TM52-TrafficStream 기술 분석.pdf](./UNIQ-TM52-TrafficStream%20기술%20분석.pdf) | TrafficStream의 주요 내용과 논문에서 제시한 내용에 대해 기술함 |
-| 14 | [UNIQ-TP14-AI for Data Management.pdf](./UNIQ-TP14-AI%20for%20Data%20Management.pdf) | 인공지능을 활용한 데이터 관리 기술 동향을 기술함 |
-| 15 | [UNIQ-TP22-Lakehouse Architecture.pdf](./UNIQ-TP22-Lakehouse%20Architecture.pdf) | 레이크하우스 개념과 구현 사례 소개함 |
+| 14 |  |  |
+| 15 |  |  |
 | 16 | [UNIQ-TP72-Graph-Similarity-SimGNN.pdf](./UNIQ-TP72-Graph-Similarity-SimGNN.pdf) | 그래프 유사성 계산과 관련된 논문인 "SimGNN: A Neural Network Approach to Fast Graph Similarity Computation"을 분석한 내용을 기술함 |
 | 17 | [UNIQ-MGT-도시교통 브레인 테스트베드 월간정기점검보고서_v1.0_이노그리드.pdf](./UNIQ-MGT-도시교통%20브레인%20테스트베드%20월간정기점검보고서_v1.0_이노그리드.pdf) | 도시교통 브레인 테스트베드의 안정적인 운영을 위한 월간정기점검을 진행한 보고서 |
 | 18 | [UNIQ-MGT-도시교통브레인 네트워크 이중화 구축 보고서_v1.0_이노그리드.pdf](./UNIQ-MGT-도시교통브레인%20네트워크%20이중화%20구축%20보고서_v1.0_이노그리드.pdf) | 안정적인 도시교통 브레인 인프라 환경 제공을 위한 테스트베드 네트워크 이중화 설계 및 구축 활동 결과를 기술 |
 | 19 | [UNIQ-MGT-적합성 검증 시나리오_v1.0_이노그리드.pdf](./UNIQ-MGT-적합성%20검증%20시나리오_v1.0_이노그리드.pdf)  | 도시교통 브레인 클라우드 엣지 관리 플랫폼 서비스 적합성 검증을 위한 시나리오에 대해 기술 |
 | 20 | [UNIQ-SIM-신호최적화 지원을 위한 시뮬레이션 기능 보완.pdf](./UNIQ-SIM-신호최적화%20지원을%20위한%20시뮬레이션%20기능%20보완.pdf)  | 도시교통브레인 신호최적화를 지원하는 과정에서 발생한 교통 시뮬레이션 관련 이슈를 기록하고, 이에 대한 해결 방안 및 조치 사항 등을 포함 |
 | 21 | [UNIQ-SIM-3차년도 신호최적화 실증 지역 선정 및 교통 수요 추정 생성.pdf](./UNIQ-SIM-3차년도%20신호최적화%20실증%20지역%20선정%20및%20교통%20수요%20추정%20생성.pdf) |도시교통브레인 3차년도 신호최적화 실증 지역 선정을 위한 교통 데이터 분석 결과와 선정된 후보 지역에 대한 교통 수요 추정 생성 결과를 포함 |
-| 22 | [UNIQ-TP-블록체인 AI metaverse 기술동향 조사.pdf](./UNIQ-TP-블록체인%20AI%20metaverse%20기술동향%20조사.pdf) | 블록체인과 AI, 메타버스 지원을 위한 블록체인 및 AI 관련 기술 동향 조사 정리 |
+| 22 |  |  |
 | 23 | [UNIQ-SIM-서브시스템설계서-v2.0.pdf](./UNIQ-SIM-서브시스템설계서-v2.0.pdf) | 스케일러블 교통 시뮬레이션 서브시스템 상세설계서 V2.0으로 멀티스케일 시뮬레이션 기능에 대한 상세설계 내용을 추가 업데이트 |
 | 24 | [UNIQ-시험 계획서 v2.0.pdf](./UNIQ-시험%20계획서%20v2.0.pdf) |3차년도 도시교통브레인 시스템 기능 시험에 대한 계획을 기술함 |
 | 25 | [UNIQ-시험 절차서 v2.0.pdf](./UNIQ-시험%20절차서%20v2.0.pdf) |3차년도 도시교통브레인 시스템 기능 시험에 대한 절차를 기술함 |
