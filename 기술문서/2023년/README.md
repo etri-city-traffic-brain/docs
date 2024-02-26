@@ -33,3 +33,4 @@
 | 27  | [UNIQ-OPT_엣지 검지 기반 단일교차로 교통신호제어 및 설계 알고리즘 개발_KAIST.pdf](./UNIQ-OPT_엣지%20검지%20기반%20단일교차로%20교통신호제어%20및%20설계%20알고리즘%20개발_KAIST.pdf) | K-Means 클러스터 기법을 활용한 유사 교통 특성 군집 기반 TOD 분할 기술에 대한 내용을 기술함 |
 | 28  | [UNIQ-TRAFFIC_JMeter를 활용한 부하 테스트 방안.pdf](./JMeter를%20활용한%20부하%20테스트%20방안.pdf) | JMeter를 이용한 RESTAPI 성능 테스트 방안 |
 | 29  | [UNIQ-TRAFFIC_SW시험 성능 테스트결과(시나리오 api 요청).pptx](./SW시험%20성능%20테스트결과(시나리오%20api%20요청).pptx) | JMeter를 이용한 RESTAPI SW시험 성능 테스트 결과  |
+| 30  | [UNIQ-TRAFFIC_ETRI_계층적데이터플랫폼구축_설계서_v1.1.pdf](./ETRI_계층적데이터플랫폼구축_설계서_v1.1.pdf) | ETRI_계층적데이터플랫폼구축_설계서를 기술함.  |
